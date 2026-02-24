@@ -64,8 +64,8 @@
 
 ---
 
-- [Лабораторная 1](reports/lab1_report.md)
-- [Лабораторная 2](reports/lab2_report.md)
+- [Лабораторная 1](report_lab1.md)
+- [Лабораторная 2](report_lab2.md)
 
 ---
 
